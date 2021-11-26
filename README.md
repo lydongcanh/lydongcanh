@@ -10,6 +10,6 @@
 
 ## Github
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lydongcanh&layout=compact&langs_count=6)](https://github.com/lydongcanh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lydongcanh&layout=compact&langs_count=10)](https://github.com/lydongcanh)
 
 
