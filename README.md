@@ -10,10 +10,6 @@
 
 ## Github
 
-<a href="https://github.com/lydongcanh">
-  <img 
-       height="180em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lydongcanh&layout=compact" 
-      alt="Ted's GitHub Top Languages" 
-  />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lydongcanh&layout=compact&langs_count=10)](https://github.com/lydongcanh)
+
+
