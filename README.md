@@ -1,8 +1,8 @@
 # Hey there, I'm Ted 👋
 
 #### Here is a picture of a cat to brighten your day
-<a href="https://cataas.com/cat?width=512&height=512">
-  <img src="https://cataas.com/cat?width=512&height=512" />
+<a href="https://cataas.com/cat">
+  <img src="https://cataas.com/cat" />
 </a>
 
 ## Github
